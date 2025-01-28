@@ -1,0 +1,28 @@
+<!-- Project 3: Blog -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Blog</title>
+    <style>
+        body { font-family: Verdana, sans-serif; line-height: 1.6; margin: 0; padding: 0; }
+        header { background: #333; color: white; padding: 1rem 0; text-align: center; }
+        .post { margin: 2rem auto; padding: 1rem; max-width: 700px; border-bottom: 1px solid #ddd; }
+        h2 { color: #007acc; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Blog</h1>
+    </header>
+    <div class="post">
+        <h2>My Coding Journey</h2>
+        <p>Today, I started learning HTML and CSS. It's amazing how quickly you can create something visible online!</p>
+    </div>
+    <div class="post">
+        <h2>First Project</h2>
+        <p>I just completed my first project—a simple webpage about travel. Feeling proud!</p>
+    </div>
+</body>
+</html>
