@@ -1,0 +1,32 @@
+<!-- Project 2: Recipe Book -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Book</title>
+    <style>
+        body { font-family: 'Georgia', serif; line-height: 1.6; background: #f9f9f9; color: #333; margin: 0; }
+        header { background: #ff6347; color: white; padding: 1rem 0; text-align: center; }
+        .recipe { margin: 2rem auto; padding: 1rem; max-width: 600px; background: white; border-radius: 5px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); }
+        h2 { color: #ff6347; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>My Recipe Book</h1>
+    </header>
+    <div class="recipe">
+        <h2>Spaghetti Carbonara</h2>
+        <p>Ingredients:</p>
+        <ul>
+            <li>Spaghetti</li>
+            <li>Eggs</li>
+            <li>Pancetta</li>
+            <li>Parmesan Cheese</li>
+            <li>Black Pepper</li>
+        </ul>
+        <p>Instructions: Cook pasta, mix with other ingredients, and enjoy!</p>
+    </div>
+</body>
+</html>
