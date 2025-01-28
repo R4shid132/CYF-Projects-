@@ -1,0 +1,26 @@
+<!-- Project 4: Event Invitation -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Invitation</title>
+    <style>
+        body { font-family: Arial, sans-serif; background: #f4f4f4; color: #333; text-align: center; margin: 0; }
+        .card { background: white; margin: 2rem auto; padding: 2rem; max-width: 400px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); }
+        h1 { color: #d23669; }
+        p { margin: 1rem 0; }
+        .button { background: #d23669; color: white; padding: 0.5rem 1rem; border: none; border-radius: 5px; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>You're Invited!</h1>
+        <p>Join us for an evening of fun and celebration.</p>
+        <p><strong>Date:</strong> 10th February 2025</p>
+        <p><strong>Time:</strong> 7:00 PM</p>
+        <p><strong>Location:</strong> Rosewood Hall</p>
+        <a href="#" class="button">RSVP Now</a>
+    </div>
+</body>
+</html>
